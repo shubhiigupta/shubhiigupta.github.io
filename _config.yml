@@ -21,14 +21,15 @@ linkedin_username: shubhigupta99
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
+additional_links:
+- title: Resume
+  icon: fa fa-file-text-o
+  url: https://drive.google.com/file/d/183VFj45Gk3FkoZm1hff8nHZq2b4_hbKd/view?usp=sharing
 
 # About Section
 # about_title: About Me
 about_profile_image: images/shubhi1.jpg
 about_content: | # this will include new lines to allow paragraphs
-
-
-
 
   Hi! My name’s Shubhi and I am a computer science undergraduate at SRM Institute of Science and Technology, studying image processing, statistics and neural networks, striving to develop fun and friendly solutions in automation.
 
