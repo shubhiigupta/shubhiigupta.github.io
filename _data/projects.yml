@@ -1,8 +1,32 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- layout: top
+  name: A Computer Vision Based Approach for Automated Traffic Management as a Smart City Solution
+  link: https://github.com/shubhiigupta/automated-traffic-management
+  #github: shubhiigupta/automated-traffic-management
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Proposes the use of adaptable lanes dividers for traffic management using real time video analysis. Uses image processing and computer visions techniques for vehicle speed, density calculation and road detection.
+- layout: top
+  name: Automated Car Damage Assessment
+  link: https://github.com/shubhiigupta/automated-traffic-management
+  #github: shubhiigupta/automated-traffic-management
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Using convolutional neural networks, the model is capable of validating specifics on car damage from user submitted images.
+- layout: top
+  name: Visual Question Answering
+  link: https://github.com/shubhiigupta/visual-question-answering
+  #github: shubhiigupta/visual-question-answering
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Application of Natural Language Processing in Computer Vision. Uses the easy-vqa dataset to train a VQA model that combines image and text features to answer open-ended questions.
+- layout: top
+  name: Mosaic Satellite Image Stitching
+  link: https://github.com/shubhiigupta/satellite-image-stitching
+  #github: shubhiigupta/car-damage-assessment
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Application of Big Data in image processing. Using Apache Hadoop MapReduce with OpenCV for stitching of observatory tile images for object detection and recognition.
